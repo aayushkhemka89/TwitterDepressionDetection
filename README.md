@@ -14,10 +14,10 @@ Collected tweets are split into training, testing, and validation sets with a ra
 
 |               | Depressive Tweets           | Normal Tweets  |
 | ------------- | --------------------------- | -------------- |
-| Training      | 3600                        | 6000           |
-| Validation    | 1200                        | 2000           |
-| Testing       | 1200                        | 2000           |
-| Total         | 6000                        | 10000          |
+| Training      | 3575                        | 5948           |
+| Validation    | 1191                        | 1983           |
+| Testing       | 1191                        | 1983           |
+| Total         | 5957                        | 9914           |
 
 ### Required Libraries
 * ftfy - fixes Unicode that's broken in various ways
